@@ -25,7 +25,7 @@ body {
 .main-header {
     background: var(--secondary-color);
     padding: 6.4rem 0;
-    background: url(/img/stars.jpg);
+    background: url(../img/stars.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
